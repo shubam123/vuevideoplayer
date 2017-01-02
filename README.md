@@ -1,4 +1,4 @@
-# fproj
+# Video Project
 
 > A Vue.js project
 
